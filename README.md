@@ -6,7 +6,7 @@ I completed **one lab** as required in the assignment and made several modificat
 
 ---
 
-## Modifications I Made (Important for the assignment)
+## Modifications I Made
 
 - **Changed the synthetic dataset**
   - Original: linear function `y = 0.5 * x + 2 + noise`
@@ -42,5 +42,6 @@ I completed **one lab** as required in the assignment and made several modificat
 - **Graphs:** Viewed model structure  
 - **Histograms:** Observed weight distribution  
 - **Debugger (basic):** Viewed alerts summary
+
 
 
