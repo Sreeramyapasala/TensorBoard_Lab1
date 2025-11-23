@@ -1,4 +1,4 @@
-# TensorBoard Lab 1 – Custom Version
+# TensorBoard Lab 1
 
 ## Overview
 This repository contains my customized version of the TensorBoard Lab from the MLOps course.  
@@ -42,6 +42,7 @@ I completed **one lab** as required in the assignment and made several modificat
 - **Graphs:** Viewed model structure  
 - **Histograms:** Observed weight distribution  
 - **Debugger (basic):** Viewed alerts summary
+
 
 
 
