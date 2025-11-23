@@ -1,12 +1,12 @@
 # TensorBoard Lab 1 – Custom Version
 
-## 📌 Overview
+## Overview
 This repository contains my customized version of the TensorBoard Lab from the MLOps course.  
 I completed **one lab** as required in the assignment and made several modifications so it is **not identical** to the original notebook.
 
 ---
 
-## ✔ Modifications I Made (Important for the assignment)
+## Modifications I Made (Important for the assignment)
 
 - **Changed the synthetic dataset**
   - Original: linear function `y = 0.5 * x + 2 + noise`
@@ -36,10 +36,11 @@ I completed **one lab** as required in the assignment and made several modificat
 
 ---
 
-## 📊 TensorBoard Components Used
+## TensorBoard Components Used
 
 - **Scalars:** Tracked training and validation loss  
 - **Graphs:** Viewed model structure  
 - **Histograms:** Observed weight distribution  
 - **Debugger (basic):** Viewed alerts summary
+
 
