@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains my customized version of the TensorBoard Lab from the MLOps course.  
-I completed **one lab** as required in the assignment and made several modifications so it is **not identical** to the original notebook.
+I completed **one lab** as required in the assignment and made several modifications
 
 ---
 
@@ -42,6 +42,7 @@ I completed **one lab** as required in the assignment and made several modificat
 - **Graphs:** Viewed model structure  
 - **Histograms:** Observed weight distribution  
 - **Debugger (basic):** Viewed alerts summary
+
 
 
 
